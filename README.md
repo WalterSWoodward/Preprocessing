@@ -6,6 +6,9 @@ Preprocessing extends the ability of CSS by adding abstractions and making CSS e
 
 * [Get LESS up and running](challenges/LESS-up-and-running)
 * [Challenge: Convert CSS to LESS](challenges/LESS-conversion)
+* STRETCH: Convert everything to BEM convention.
 
 
 
+// To compile:  lessc less/index.less css/index.css INSIDE Processing folder
+// LESS Watcher Installation + Implementation Instructions: https://github.com/jonycheung/deadsimple-less-watch-compiler
